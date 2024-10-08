@@ -1,4 +1,4 @@
-# ![logo](./logo.png)stegosaurus
+# ![logo](./demo/logo.png)stegosaurus
 Multipurpouse steganalysis tool
 
 ## Build
