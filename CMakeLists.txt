@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(stegosaurus)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(stegosaurus main.cpp)
+target_link_libraries(stegosaurus ${OpenCV_LIBS})

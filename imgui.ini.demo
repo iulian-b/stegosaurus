@@ -1,0 +1,45 @@
+[Window][Debug##Default]
+Pos=60,60
+Size=400,400
+Collapsed=0
+
+[Window][Toolbox]
+Pos=510,30
+Size=339,121
+Collapsed=0
+
+[Window][Exif Data]
+Pos=510,165
+Size=430,295
+Collapsed=0
+
+[Window][Image]
+Pos=15,30
+Size=480,430
+Collapsed=0
+
+[Window][About]
+Pos=15,475
+Size=233,196
+Collapsed=0
+
+[Window][LSB - Encode]
+Pos=260,475
+Size=311,140
+Collapsed=0
+
+[Window][LSB - Decode]
+Pos=586,475
+Size=565,140
+Collapsed=0
+
+[Window][Select Image to Decode##filebrowser_140735236085792]
+Pos=300,124
+Size=700,450
+Collapsed=0
+
+[Window][Select Image to Decode##filebrowser_140733973187552]
+Pos=332,132
+Size=700,450
+Collapsed=0
+
