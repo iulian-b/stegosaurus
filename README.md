@@ -1,0 +1,2 @@
+# stegosaurus
+Multipurpouse steganalysis tool
