@@ -1,6 +1,8 @@
 # ![logo](./demo/logo.png)stegosaurus
 Multipurpouse steganalysis tool
 
+![demo](./demo/demo.png)
+
 ## Build
 
 `make ./`
